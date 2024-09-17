@@ -8,7 +8,7 @@ package com.example.dataclasshomework.dataclass
  * У нас есть список учителей, нужно вывести список имен учителей, опыт которых больше 5 лет.
  * А если такого учителя нет, то нужно вывести текст: "Учитель с таким опытом не найден"
  *
- * Для выполнения задачи понадобится методы find и map из Kotlin.
+ * Для выполнения задачи понадобится методы filter и map из Kotlin.
  * Примеры использования можно изучить в официальной документации Kotlin:
  * 1. https://kotlinlang.ru/docs/collection-elements.html
  * 2. https://kotlinlang.ru/docs/map-operations.html
